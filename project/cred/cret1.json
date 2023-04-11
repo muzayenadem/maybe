@@ -1,0 +1,20 @@
+{
+    "country":"dodla",
+    "company":[
+        {
+            "platform":"facebook",
+             "address":"america",
+             "language":"python"
+        },
+        {
+            "Open_source":"google",
+            "address":"german",
+            "language":"javascript"
+        },
+        {
+            "social_media":"tiktok",
+            "address":"china",
+            "language":"c++"
+        }
+    ]
+}
